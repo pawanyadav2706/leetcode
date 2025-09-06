@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/pawanyadav2706/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/pawanyadav2706/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pawanyadav2706/leetcode/tree/master/0035-search-insert-position) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/pawanyadav2706/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pawanyadav2706/leetcode/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/pawanyadav2706/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
