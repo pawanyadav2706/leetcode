@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/pawanyadav2706/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/pawanyadav2706/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pawanyadav2706/leetcode/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/pawanyadav2706/leetcode/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pawanyadav2706/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/pawanyadav2706/leetcode/tree/master/1791-richest-customer-wealth) |
 ## String
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pawanyadav2706/leetcode/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/pawanyadav2706/leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
