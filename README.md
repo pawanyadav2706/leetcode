@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pawanyadav2706/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/pawanyadav2706/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pawanyadav2706/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pawanyadav2706/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/pawanyadav2706/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
