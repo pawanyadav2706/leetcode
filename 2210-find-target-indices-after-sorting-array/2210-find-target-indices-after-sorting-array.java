@@ -2,10 +2,8 @@
 
 class Solution {
     public List<Integer> targetIndices(int[] arr, int target) {
-        // Step 1: sort array (bubble sort call karo)
         bubble(arr);
 
-        // Step 2: traverse & collect indices
         List<Integer> result = new ArrayList<>();
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == target) {
