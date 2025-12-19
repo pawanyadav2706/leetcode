@@ -109,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pawanyadav2706/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pawanyadav2706/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pawanyadav2706/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
