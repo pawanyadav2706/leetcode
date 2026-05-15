@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pawanyadav2706/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pawanyadav2706/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/pawanyadav2706/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/pawanyadav2706/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0912-sort-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pawanyadav2706/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/pawanyadav2706/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/pawanyadav2706/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav2706/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pawanyadav2706/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/pawanyadav2706/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pawanyadav2706/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav2706/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/pawanyadav2706/leetcode/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/pawanyadav2706/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0912-sort-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/pawanyadav2706/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Simulation
