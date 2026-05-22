@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/pawanyadav2706/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawanyadav2706/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pawanyadav2706/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/pawanyadav2706/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/pawanyadav2706/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/pawanyadav2706/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pawanyadav2706/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/pawanyadav2706/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/pawanyadav2706/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
