@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/pawanyadav2706/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/pawanyadav2706/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawanyadav2706/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pawanyadav2706/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pawanyadav2706/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/pawanyadav2706/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/pawanyadav2706/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pawanyadav2706/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
 | [0976-largest-perimeter-triangle](https://github.com/pawanyadav2706/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pawanyadav2706/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pawanyadav2706/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pawanyadav2706/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Matrix
