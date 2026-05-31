@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/pawanyadav2706/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/pawanyadav2706/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pawanyadav2706/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1389-create-target-array-in-the-given-order](https://github.com/pawanyadav2706/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pawanyadav2706/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/pawanyadav2706/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pawanyadav2706/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pawanyadav2706/leetcode/tree/master/0054-spiral-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/pawanyadav2706/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/pawanyadav2706/leetcode/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pawanyadav2706/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Linked List
