@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/pawanyadav2706/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/pawanyadav2706/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pawanyadav2706/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawanyadav2706/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/pawanyadav2706/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pawanyadav2706/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/pawanyadav2706/leetcode/tree/master/1470-shuffle-the-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav2706/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/pawanyadav2706/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawanyadav2706/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pawanyadav2706/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pawanyadav2706/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/pawanyadav2706/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/pawanyadav2706/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawanyadav2706/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawanyadav2706/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/pawanyadav2706/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pawanyadav2706/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawanyadav2706/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pawanyadav2706/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Tree
 |  |
