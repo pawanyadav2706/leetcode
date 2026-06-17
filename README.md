@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pawanyadav2706/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pawanyadav2706/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pawanyadav2706/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/pawanyadav2706/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pawanyadav2706/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/pawanyadav2706/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawanyadav2706/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pawanyadav2706/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/pawanyadav2706/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pawanyadav2706/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/pawanyadav2706/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/pawanyadav2706/leetcode/tree/master/0832-flipping-an-image) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pawanyadav2706/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/pawanyadav2706/leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/pawanyadav2706/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/pawanyadav2706/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/pawanyadav2706/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
