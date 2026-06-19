@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pawanyadav2706/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawanyadav2706/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pawanyadav2706/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/pawanyadav2706/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/pawanyadav2706/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pawanyadav2706/leetcode/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pawanyadav2706/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/pawanyadav2706/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pawanyadav2706/leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/pawanyadav2706/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pawanyadav2706/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/pawanyadav2706/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pawanyadav2706/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/pawanyadav2706/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pawanyadav2706/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/pawanyadav2706/leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/pawanyadav2706/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pawanyadav2706/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
 | [0976-largest-perimeter-triangle](https://github.com/pawanyadav2706/leetcode/tree/master/0976-largest-perimeter-triangle) |
