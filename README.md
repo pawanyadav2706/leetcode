@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/pawanyadav2706/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pawanyadav2706/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/pawanyadav2706/leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pawanyadav2706/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pawanyadav2706/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/pawanyadav2706/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pawanyadav2706/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
