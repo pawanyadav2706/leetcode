@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/pawanyadav2706/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/pawanyadav2706/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pawanyadav2706/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/pawanyadav2706/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
 | [0976-largest-perimeter-triangle](https://github.com/pawanyadav2706/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/pawanyadav2706/leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pawanyadav2706/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/pawanyadav2706/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/pawanyadav2706/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/pawanyadav2706/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pawanyadav2706/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/pawanyadav2706/leetcode/tree/master/0338-counting-bits) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pawanyadav2706/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pawanyadav2706/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/pawanyadav2706/leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
