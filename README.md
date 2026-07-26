@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/pawanyadav2706/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/pawanyadav2706/leetcode/tree/master/0709-to-lower-case) |
 | [0742-to-lower-case](https://github.com/pawanyadav2706/leetcode/tree/master/0742-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pawanyadav2706/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/pawanyadav2706/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/pawanyadav2706/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pawanyadav2706/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pawanyadav2706/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pawanyadav2706/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/pawanyadav2706/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pawanyadav2706/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pawanyadav2706/leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/pawanyadav2706/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/pawanyadav2706/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pawanyadav2706/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/pawanyadav2706/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pawanyadav2706/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Prefix Sum
