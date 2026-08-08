@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/pawanyadav2706/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/pawanyadav2706/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pawanyadav2706/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/pawanyadav2706/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/pawanyadav2706/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/pawanyadav2706/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pawanyadav2706/leetcode/tree/master/0202-happy-number) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/pawanyadav2706/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pawanyadav2706/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/pawanyadav2706/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawanyadav2706/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/pawanyadav2706/leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/pawanyadav2706/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -395,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pawanyadav2706/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
