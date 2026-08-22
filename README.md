@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/pawanyadav2706/leetcode/tree/master/0792-binary-search) |
 | [0832-flipping-an-image](https://github.com/pawanyadav2706/leetcode/tree/master/0832-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/pawanyadav2706/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0905-sort-array-by-parity](https://github.com/pawanyadav2706/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/pawanyadav2706/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav2706/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/pawanyadav2706/leetcode/tree/master/0645-set-mismatch) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawanyadav2706/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pawanyadav2706/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pawanyadav2706/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pawanyadav2706/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/pawanyadav2706/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/pawanyadav2706/leetcode/tree/master/0191-number-of-1-bits) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Number Theory
 |  |
