@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pawanyadav2706/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pawanyadav2706/leetcode/tree/master/0342-power-of-four) |
+| [0836-rectangle-overlap](https://github.com/pawanyadav2706/leetcode/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/pawanyadav2706/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/pawanyadav2706/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pawanyadav2706/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -552,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawanyadav2706/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/pawanyadav2706/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
