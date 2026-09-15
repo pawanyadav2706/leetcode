@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/pawanyadav2706/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawanyadav2706/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/pawanyadav2706/leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1122-relative-sort-array](https://github.com/pawanyadav2706/leetcode/tree/master/1122-relative-sort-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pawanyadav2706/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1250-check-if-it-is-a-good-array](https://github.com/pawanyadav2706/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/pawanyadav2706/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/pawanyadav2706/leetcode/tree/master/0645-set-mismatch) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1122-relative-sort-array](https://github.com/pawanyadav2706/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawanyadav2706/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pawanyadav2706/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pawanyadav2706/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/pawanyadav2706/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/pawanyadav2706/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawanyadav2706/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/pawanyadav2706/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawanyadav2706/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/pawanyadav2706/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/pawanyadav2706/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pawanyadav2706/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/pawanyadav2706/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawanyadav2706/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pawanyadav2706/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/pawanyadav2706/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -565,8 +569,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pawanyadav2706/leetcode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/pawanyadav2706/leetcode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pawanyadav2706/leetcode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/pawanyadav2706/leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
