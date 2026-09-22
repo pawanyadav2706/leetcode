@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/pawanyadav2706/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/pawanyadav2706/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pawanyadav2706/leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/pawanyadav2706/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/pawanyadav2706/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/pawanyadav2706/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/pawanyadav2706/leetcode/tree/master/0257-binary-tree-paths) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pawanyadav2706/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pawanyadav2706/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pawanyadav2706/leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/pawanyadav2706/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pawanyadav2706/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pawanyadav2706/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/pawanyadav2706/leetcode/tree/master/0338-counting-bits) |
