@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawanyadav2706/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/pawanyadav2706/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/pawanyadav2706/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawanyadav2706/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/pawanyadav2706/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/pawanyadav2706/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawanyadav2706/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/pawanyadav2706/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/pawanyadav2706/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0993-cousins-in-binary-tree) |
