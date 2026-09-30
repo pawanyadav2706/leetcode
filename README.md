@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawanyadav2706/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0687-longest-univalue-path](https://github.com/pawanyadav2706/leetcode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/pawanyadav2706/leetcode/tree/master/0872-leaf-similar-trees) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawanyadav2706/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0687-longest-univalue-path](https://github.com/pawanyadav2706/leetcode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/pawanyadav2706/leetcode/tree/master/0872-leaf-similar-trees) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawanyadav2706/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0687-longest-univalue-path](https://github.com/pawanyadav2706/leetcode/tree/master/0687-longest-univalue-path) |
 | [0872-leaf-similar-trees](https://github.com/pawanyadav2706/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/pawanyadav2706/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pawanyadav2706/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/pawanyadav2706/leetcode/tree/master/0687-longest-univalue-path) |
 ## Binary Search Tree
 |  |
 | ------- |
