@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pawanyadav2706/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/pawanyadav2706/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pawanyadav2706/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawanyadav2706/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawanyadav2706/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pawanyadav2706/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawanyadav2706/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pawanyadav2706/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pawanyadav2706/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawanyadav2706/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawanyadav2706/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
@@ -700,4 +702,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/pawanyadav2706/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawanyadav2706/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawanyadav2706/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
