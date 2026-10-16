@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/pawanyadav2706/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/pawanyadav2706/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0621-task-scheduler](https://github.com/pawanyadav2706/leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/pawanyadav2706/leetcode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pawanyadav2706/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pawanyadav2706/leetcode/tree/master/0792-binary-search) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/pawanyadav2706/leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/pawanyadav2706/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/pawanyadav2706/leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/pawanyadav2706/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/pawanyadav2706/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pawanyadav2706/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav2706/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0621-task-scheduler](https://github.com/pawanyadav2706/leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/pawanyadav2706/leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawanyadav2706/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pawanyadav2706/leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pawanyadav2706/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav2706/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0621-task-scheduler](https://github.com/pawanyadav2706/leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/pawanyadav2706/leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/pawanyadav2706/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0912-sort-an-array) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/pawanyadav2706/leetcode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0912-sort-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/pawanyadav2706/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 ## Merge Sort
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pawanyadav2706/leetcode/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/pawanyadav2706/leetcode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/pawanyadav2706/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pawanyadav2706/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
