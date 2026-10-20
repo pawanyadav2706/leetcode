@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/pawanyadav2706/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/pawanyadav2706/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pawanyadav2706/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/pawanyadav2706/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pawanyadav2706/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/pawanyadav2706/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pawanyadav2706/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/pawanyadav2706/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/pawanyadav2706/leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/pawanyadav2706/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav2706/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pawanyadav2706/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pawanyadav2706/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pawanyadav2706/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/pawanyadav2706/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav2706/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/pawanyadav2706/leetcode/tree/master/0621-task-scheduler) |
