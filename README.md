@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/pawanyadav2706/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/pawanyadav2706/leetcode/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/pawanyadav2706/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/pawanyadav2706/leetcode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pawanyadav2706/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pawanyadav2706/leetcode/tree/master/0792-binary-search) |
@@ -735,4 +736,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawanyadav2706/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/pawanyadav2706/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
