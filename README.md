@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/pawanyadav2706/leetcode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/pawanyadav2706/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/pawanyadav2706/leetcode/tree/master/0394-decode-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/pawanyadav2706/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pawanyadav2706/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/pawanyadav2706/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/pawanyadav2706/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pawanyadav2706/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pawanyadav2706/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pawanyadav2706/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/pawanyadav2706/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/pawanyadav2706/leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/pawanyadav2706/leetcode/tree/master/0645-set-mismatch) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/pawanyadav2706/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/pawanyadav2706/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pawanyadav2706/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/pawanyadav2706/leetcode/tree/master/2090-k-radius-subarray-averages) |
