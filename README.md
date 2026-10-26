@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/pawanyadav2706/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/pawanyadav2706/leetcode/tree/master/0709-to-lower-case) |
 | [0742-to-lower-case](https://github.com/pawanyadav2706/leetcode/tree/master/0742-to-lower-case) |
+| [0796-rotate-string](https://github.com/pawanyadav2706/leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/pawanyadav2706/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pawanyadav2706/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pawanyadav2706/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pawanyadav2706/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/pawanyadav2706/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/pawanyadav2706/leetcode/tree/master/0796-rotate-string) |
 ## Design
 |  |
 | ------- |
