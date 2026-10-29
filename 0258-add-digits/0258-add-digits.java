@@ -5,9 +5,10 @@ class Solution {
             while(num > 0){
                 int digit = num % 10;
                 sum = sum + digit;
-                num = num / 10;
+                 num = num / 10;
             }
             num = sum;
+           
         }
         return num;
     }
