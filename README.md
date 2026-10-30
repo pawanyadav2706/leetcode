@@ -765,4 +765,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pawanyadav2706/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/pawanyadav2706/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pawanyadav2706/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/pawanyadav2706/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
