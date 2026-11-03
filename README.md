@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/pawanyadav2706/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/pawanyadav2706/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/pawanyadav2706/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pawanyadav2706/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pawanyadav2706/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/pawanyadav2706/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pawanyadav2706/leetcode/tree/master/1929-concatenation-of-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pawanyadav2706/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pawanyadav2706/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pawanyadav2706/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/pawanyadav2706/leetcode/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pawanyadav2706/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pawanyadav2706/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/pawanyadav2706/leetcode/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pawanyadav2706/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pawanyadav2706/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pawanyadav2706/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pawanyadav2706/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/pawanyadav2706/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/pawanyadav2706/leetcode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/pawanyadav2706/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pawanyadav2706/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -712,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pawanyadav2706/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawanyadav2706/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
@@ -788,4 +793,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pawanyadav2706/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pawanyadav2706/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
