@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/pawanyadav2706/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pawanyadav2706/leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pawanyadav2706/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pawanyadav2706/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/pawanyadav2706/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/pawanyadav2706/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/pawanyadav2706/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pawanyadav2706/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pawanyadav2706/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/pawanyadav2706/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/pawanyadav2706/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pawanyadav2706/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pawanyadav2706/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pawanyadav2706/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pawanyadav2706/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawanyadav2706/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/pawanyadav2706/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1833-maximum-ice-cream-bars](https://github.com/pawanyadav2706/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pawanyadav2706/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/pawanyadav2706/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Tree
 |  |
 | ------- |
