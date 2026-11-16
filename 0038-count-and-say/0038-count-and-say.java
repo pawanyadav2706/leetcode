@@ -1,7 +1,8 @@
 class Solution {
     public String countAndSay(int n) {
 
-        if (n == 1) return "1";
+        if (n == 1)
+            return "1";
 
         String prev = countAndSay(n - 1);
 
@@ -14,7 +15,7 @@ class Solution {
             } else {
 
                 sb.append(count).append(prev.charAt(i - 1));
-                count = 1; 
+                count = 1;
             }
         }
 
@@ -25,6 +26,6 @@ class Solution {
 
     public static void main(String[] args) {
         Solution s = new Solution();
-        System.out.println(s.countAndSay(4));  
+        System.out.println(s.countAndSay(4));
     }
 }
